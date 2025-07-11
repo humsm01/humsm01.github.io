@@ -1,7 +1,8 @@
 # Humberto's Portfolio Website
 My personal portfolio showcasing machine learning projects, bioacoustics research, and software development work.
 
-Live site: https://humsm01.github.io/
+**Live site:** https://humsm01.github.io/
+
 ---
 
 ## Built With
